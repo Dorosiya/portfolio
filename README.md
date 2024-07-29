@@ -32,7 +32,7 @@ Java, Spring, MySQL, Querydsl, Git, AWS 등을 사용하여 서비스를 설계,
 >개발 기간: 2024.07.10 ~ 2024.07.20  
 >
 >기술 스택:  
->Java 17 / Spring MVC / Gradle / JPA / IntelliJ / Thymeleaf
+>Java 17 / Spring MVC / Gradle / JPA / IntelliJ / Thymeleaf /
 >MySQL / Querydsl / Spring Security / JWT / Bootstrap
 >
 >이 프로젝트는 간단한 실시간 채팅 서비스를 제공하는 웹 애플리케이션입니다. 실시간 메시징, 사용자 인증 등의 기능을 구현했습니다.
