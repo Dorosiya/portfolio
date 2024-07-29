@@ -18,7 +18,7 @@ Java, Spring, MySQL, Querydsl, Git, AWS 등을 사용하여 서비스를 설계,
 >개발 기간: 2024.06.15 ~ 2024.06.20  
 >
 >기술 스택:  
->Java 17 / Spring MVC / Gradle / JPA / AWS / GithubAction / IntelliJ  
+>Java 17 / Spring MVC / Gradle / JPA / AWS / GithubAction / IntelliJ /
 >MySQL / Querydsl / Spring Security / JWT / Bootstrap
 >
 >해당 프로젝트는 도서 대출 서비스를 제공하는 웹 애플리케이션입니다. 이 프로젝트를 통해 사용자 인증, 대출 도서 관리, 도서 예약 등의 기능을 구현했습니다.
