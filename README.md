@@ -43,12 +43,13 @@ Java, Spring, MySQL, Querydsl, Git, AWS 등을 사용하여 서비스를 설계,
 
 ### 3. [게이밍 기어 쇼핑몰 프로젝트](https://github.com/Dorosiya/NeoNest)
 >쇼핑몰 프로젝트 (개인 프로젝트)  
->개발 기간: 2024.09.20 ~ 진행 중  
+>개발 기간: 2024.09.20 ~ 2024.11.21  
 >
 >기술 스택:  
->Java 17 / Spring MVC / Gradle / JPA / IntelliJ / Thymeleaf /
->MySQL / Querydsl / Spring Security / JWT / Bootstrap / (추가예정)
+>Java 17 / Spring MVC / Gradle / JPA / IntelliJ /
+>MySQL / Querydsl / Spring Security / JWT / Bootstrap / 포트원(아임포트)
 >
->해당 프로젝트는 쇼핑몰 프로젝트로 쇼핑몰의 기본적인 기능들을 구현하였습니다.
+>해당 프로젝트는 쇼핑몰 프로젝트로 쇼핑몰의 결제 및 기본적인 기능들을 구현하였습니다.
+>개인적인 사정으로 프로젝트 기간이 다소 길어졌습니다.
 >
 >[프로젝트 상세 설명](https://github.com/Dorosiya/NeoNest) 참고
